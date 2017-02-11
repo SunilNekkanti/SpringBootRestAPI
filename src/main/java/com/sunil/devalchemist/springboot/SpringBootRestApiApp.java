@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication(scanBasePackages={"com.sunil.devalchemist.springboot"})// same as @Configuration @EnableAutoConfiguration @ComponentScan combined
 public class SpringBootRestApiApp {
-// configuration changed
+// testing intellij merge resolution
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootRestApiApp.class, args);
 	}
