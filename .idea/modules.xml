@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SpringBootRestApiExample.iml" filepath="$PROJECT_DIR$/SpringBootRestApiExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootRestApi.iml" filepath="$PROJECT_DIR$/SpringBootRestApi.iml" />
     </modules>
   </component>
 </project>
